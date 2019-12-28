@@ -1,2 +1,2 @@
 # GTX-GO
-Simple car racing game
+Simple car racing game (Visual Basic.NET)
