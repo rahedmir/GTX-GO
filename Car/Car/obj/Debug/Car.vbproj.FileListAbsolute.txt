@@ -1,0 +1,30 @@
+c:\users\mir\documents\visual studio 2013\Projects\Car\Car\bin\Debug\Car.exe.config
+c:\users\mir\documents\visual studio 2013\Projects\Car\Car\bin\Debug\Car.exe
+c:\users\mir\documents\visual studio 2013\Projects\Car\Car\bin\Debug\Car.pdb
+c:\users\mir\documents\visual studio 2013\Projects\Car\Car\bin\Debug\Car.xml
+c:\users\mir\documents\visual studio 2013\Projects\Car\Car\obj\Debug\Car.Resources.resources
+c:\users\mir\documents\visual studio 2013\Projects\Car\Car\obj\Debug\Car.vbproj.GenerateResource.Cache
+c:\users\mir\documents\visual studio 2013\Projects\Car\Car\obj\Debug\Car.exe
+c:\users\mir\documents\visual studio 2013\Projects\Car\Car\obj\Debug\Car.xml
+c:\users\mir\documents\visual studio 2013\Projects\Car\Car\obj\Debug\Car.pdb
+C:\Users\Mir\documents\visual studio 2013\Projects\Car\Car\obj\Debug\Car.gtx_go.resources
+C:\Users\Mir\Desktop\Car\Car\bin\Debug\Car.exe.config
+C:\Users\Mir\Desktop\Car\Car\obj\Debug\Car.exe
+C:\Users\Mir\Desktop\Car\Car\obj\Debug\Car.xml
+C:\Users\Mir\Desktop\Car\Car\obj\Debug\Car.pdb
+C:\Users\Mir\Desktop\Car\Car\bin\Debug\Car.exe
+C:\Users\Mir\Desktop\Car\Car\bin\Debug\Car.pdb
+C:\Users\Mir\Desktop\Car\Car\bin\Debug\Car.xml
+C:\Users\Mir\Desktop\Car\Car\obj\Debug\Car.gtx_go.resources
+C:\Users\Mir\Desktop\Car\Car\obj\Debug\Car.Resources.resources
+C:\Users\Mir\Desktop\Car\Car\obj\Debug\Car.vbproj.GenerateResource.Cache
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\bin\Debug\Car.exe.config
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\obj\Debug\Car.exe
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\obj\Debug\Car.xml
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\obj\Debug\Car.pdb
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\bin\Debug\Car.exe
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\bin\Debug\Car.pdb
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\bin\Debug\Car.xml
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\obj\Debug\Car.gtx_go.resources
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\obj\Debug\Car.Resources.resources
+C:\Users\MIR\Desktop\GTX-GO-master\Car\Car\obj\Debug\Car.vbproj.GenerateResource.Cache
